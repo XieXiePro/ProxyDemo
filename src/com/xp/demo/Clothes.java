@@ -7,7 +7,7 @@ import java.math.BigDecimal;
  * @author XP
  *
  */
-public class Jacket implements IClothes {
+public class Clothes {
 	/**
 	 * 原价
 	 */
