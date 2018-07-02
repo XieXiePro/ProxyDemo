@@ -12,4 +12,6 @@ public interface IClothes{
 
 	public BigDecimal price();
 	
+	public BigDecimal discout();
+	
 }
